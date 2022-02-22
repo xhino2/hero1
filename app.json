@@ -1,6 +1,6 @@
 {
-  "name": "V2Ray Easy To Use",
-  "description": "Deploy V2Ray(ws+tls+web) to Heroku easily.",
+  "name": "V2Ray",
+  "description": "Deploy V2Ray(ws+tls+web) to Heroku.",
   "keywords": ["V2Ray"],
   "env": {
     "AppName": {
@@ -37,6 +37,6 @@
      }
   },
   "website": "https://github.com/shell-script/v2ray-heroku",
-  "repository": "https://github.com/shell-script/v2ray-heroku",
+  "repository": "https://github.com/xhino2/hero1",
   "stack": "container"
  }
